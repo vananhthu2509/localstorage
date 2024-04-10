@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    background-color: pink;
+    padding: 3px 0;
+}
+
+.head a{
+    color: white;
+}
+
+.user button{
+    border: none;
+    background-color: palevioletred;
+}
+
+.mid .mid-left{
+    background-color: rgba(0, 0, 0, 0.296);
+    color: white;
+}
+
+.mid-left .row{
+    padding: 0 14px;
+}
+
+#update{
+    border: 1px palevioletred solid;
+    color: palevioletred;
+    background-color: white;
+    padding: 5px 5px;
+}
+
+#deleted{
+    border: 1px palevioletred solid;
+    color: palevioletred;
+    background-color: white;
+    padding: 6px 6px;
+}
